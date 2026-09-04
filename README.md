@@ -1,7 +1,7 @@
 ## Hi, I'm Nafisa! 
 
 ### 📜 Character Lore
-𐙚 CSE student building things with pixels and code .<br/>
+𐙚 CSE student building things with pixels and code.<br/>
 ⟡ Currently learning, experimenting, and turning ideas into projects.<br/>
 ☾ Fueled by games and questionable amounts of caffeine. <br/>
 
