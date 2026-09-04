@@ -12,4 +12,4 @@
 | SQL | ██████░░░░ |
 | Data Science | █████████░ |
 | Pixel Art | ███████░░░ |
-| Caffeine | ~~██████████~~ ╥_╥ |
+| Caffeine | ~~██████████~~ ╥_╥ | [Error: Overdosed404]
