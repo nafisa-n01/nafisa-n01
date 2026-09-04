@@ -2,6 +2,6 @@
 
 𐙚 CSE student building things with pixels and code .<br/>
 ⟡ Currently learning, experimenting, and turning random ideas into projects.<br/>
-⸙ fueled by games, and questionable amounts of caffeine. <br/>
+☾ fueled by games, and questionable amounts of caffeine. <br/>
 
 
