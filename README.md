@@ -30,7 +30,7 @@
   </tr>
 </table>
 
-### ⚔️ Inventory
+### ⚔️ Character Inventory
 
 **Programming**
 
